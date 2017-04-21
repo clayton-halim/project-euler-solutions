@@ -3,3 +3,6 @@ This repo stores all my solutions to Project Euler problems! Problems are done i
 
 # Completed
 - Problem 1
+- Problem 2
+- Problem 3
+- Problem 4
