@@ -12,3 +12,5 @@ This repo stores all my solutions to Project Euler problems! Problems are done i
 	- Python
 - Problem 5
 	- C
+- Problem 6
+	- C
