@@ -16,3 +16,5 @@ This repo stores all my solutions to Project Euler problems! Problems are done i
 	- C
 - Problem 7
 	- C
+- Problem 8
+	- Python
