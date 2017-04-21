@@ -14,3 +14,5 @@ This repo stores all my solutions to Project Euler problems! Problems are done i
 	- C
 - Problem 6
 	- C
+- Problem 7
+	- C
